@@ -1,0 +1,15 @@
+{
+  "name":         "Syslog",
+  "version":      "0.1",
+  "description":  "Provides access to a Unix system's system logger.",
+  "author":       "Jeremy Tregunna",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["Syslog"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  ["syslog.h"],
+    "protos":   [],
+    "packages": []
+  }
+}
