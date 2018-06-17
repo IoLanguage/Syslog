@@ -15,3 +15,8 @@ logger = Syslog clone do(
 ```
 
 > Note: This is partially tested. Please let me know of any problems you happen to stumble across, or if it could be better. --Jeremy Tregunna
+
+# Installation
+```
+eerie install https://github.com/IoLanguage/Syslog.git
+```
